@@ -1,2 +1,3 @@
-# movie-reviews-web
+# Movie Reviews Web
+
 Web app for movie reviews
